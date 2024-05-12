@@ -22,3 +22,4 @@ mongoose.connect(MONGO_URI)
 
 //utilizar las rutas de recetas
 app.use('/recetarios', recetaRutas);
+//mñnlknblblj.b.l
